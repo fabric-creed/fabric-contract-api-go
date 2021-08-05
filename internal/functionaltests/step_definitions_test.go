@@ -17,14 +17,14 @@ import (
 	"github.com/cucumber/godog"
 	"github.com/cucumber/godog/colors"
 	"github.com/cucumber/godog/gherkin"
-	"github.com/hyperledger/fabric-chaincode-go/shimtest"
-	"github.com/hyperledger/fabric-contract-api-go/contractapi"
-	"github.com/hyperledger/fabric-contract-api-go/internal/functionaltests/contracts/complexcontract"
-	"github.com/hyperledger/fabric-contract-api-go/internal/functionaltests/contracts/extendedsimplecontract"
-	"github.com/hyperledger/fabric-contract-api-go/internal/functionaltests/contracts/simplecontract"
-	"github.com/hyperledger/fabric-contract-api-go/internal/functionaltests/contracts/utils"
-	"github.com/hyperledger/fabric-contract-api-go/metadata"
-	"github.com/hyperledger/fabric-protos-go/peer"
+	"github.com/fabric-creed/fabric-chaincode-go/shimtest"
+	"github.com/fabric-creed/fabric-contract-api-go/contractapi"
+	"github.com/fabric-creed/fabric-contract-api-go/internal/functionaltests/contracts/complexcontract"
+	"github.com/fabric-creed/fabric-contract-api-go/internal/functionaltests/contracts/extendedsimplecontract"
+	"github.com/fabric-creed/fabric-contract-api-go/internal/functionaltests/contracts/simplecontract"
+	"github.com/fabric-creed/fabric-contract-api-go/internal/functionaltests/contracts/utils"
+	"github.com/fabric-creed/fabric-contract-api-go/metadata"
+	"github.com/fabric-creed/fabric-protos-go/peer"
 )
 
 var opt = godog.Options{Output: colors.Colored(os.Stdout)}

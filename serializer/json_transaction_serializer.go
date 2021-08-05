@@ -9,9 +9,9 @@ import (
 	"reflect"
 	"time"
 
-	"github.com/hyperledger/fabric-contract-api-go/internal/types"
-	"github.com/hyperledger/fabric-contract-api-go/internal/utils"
-	"github.com/hyperledger/fabric-contract-api-go/metadata"
+	"github.com/fabric-creed/fabric-contract-api-go/internal/types"
+	"github.com/fabric-creed/fabric-contract-api-go/internal/utils"
+	"github.com/fabric-creed/fabric-contract-api-go/metadata"
 
 	"github.com/xeipuuv/gojsonschema"
 )

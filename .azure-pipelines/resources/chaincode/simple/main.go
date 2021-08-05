@@ -4,7 +4,7 @@
 package main
 
 import (
-	"github.com/hyperledger/fabric-contract-api-go/contractapi"
+	"github.com/fabric-creed/fabric-contract-api-go/contractapi"
 )
 
 // SimpleContract with biz logic
