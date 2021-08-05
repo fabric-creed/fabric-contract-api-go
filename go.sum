@@ -27,6 +27,8 @@ github.com/fabric-creed/cryptox v0.0.0-20210618072314-ca7d285682a8 h1:SZ3hHStk6e
 github.com/fabric-creed/cryptox v0.0.0-20210618072314-ca7d285682a8/go.mod h1:C/WAHwVqhzu3bYrmJvO6lyYSwDNFkH0S7TpnPYKMptc=
 github.com/fabric-creed/fabric-chaincode-go v0.0.0-20210805071014-013bb54f9ee4 h1:Gitoiqh8s5AYUKbdR9E4XnkXIB+cwy0gbSucFVqOfGg=
 github.com/fabric-creed/fabric-chaincode-go v0.0.0-20210805071014-013bb54f9ee4/go.mod h1:hbgPgyK4ihHpKCwwvLgIuhOStkR2MCgkHdVTC0KmZF0=
+github.com/fabric-creed/fabric-chaincode-go v0.0.0-20210805072612-af5306599667 h1:i6Fp7dmhIQS9X0HAV4JVZ4Fj2/0PGyq7d1yJQnmSmrA=
+github.com/fabric-creed/fabric-chaincode-go v0.0.0-20210805072612-af5306599667/go.mod h1:lx2cz/34YEyTXvzYK+LC0UjjbRiMw+ACqVIpuuR7LKU=
 github.com/fabric-creed/fabric-protos-go v0.0.0-20210621061524-cae0a59d99d3 h1:ZNRtHTNHnaJKfDtYGYeYIR8dUOxycFxWdoTdTeWMJw4=
 github.com/fabric-creed/fabric-protos-go v0.0.0-20210621061524-cae0a59d99d3/go.mod h1:Fx5Y8f8pVt4svo/dfmMpgtMeMUD4G0o4V+1Zi1/NLzU=
 github.com/fabric-creed/grpc v1.29.1-gm h1:cpernulQc0MG2iJYRuqF/7HEOJXvJtAA0n0WmSNXhV8=

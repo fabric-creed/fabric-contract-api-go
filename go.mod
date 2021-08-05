@@ -4,7 +4,7 @@ go 1.14
 
 require (
 	github.com/cucumber/godog v0.8.0
-	github.com/fabric-creed/fabric-chaincode-go v0.0.0-20210805071014-013bb54f9ee4
+	github.com/fabric-creed/fabric-chaincode-go v0.0.0-20210805072612-af5306599667
 	github.com/fabric-creed/fabric-protos-go v0.0.0-20210621061524-cae0a59d99d3
 	github.com/go-openapi/spec v0.19.4
 	github.com/gobuffalo/packr v1.30.1
